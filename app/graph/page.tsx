@@ -359,7 +359,7 @@ function ClusterMap({ nodes, clusters, selected, onSelect, dotMode }: {
 
   const onWheel = useCallback((e: React.WheelEvent) => {
     e.preventDefault();
-    const factor = e.deltaY < 0 ? 1.06 : 0.94;
+    const factor = e.deltaY < 0 ? 1.03 : 0.97;
     setTransform(t => ({ ...t, scale: Math.max(0.3, Math.min(8, t.scale * factor)) }));
   }, []);
 
