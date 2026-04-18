@@ -508,7 +508,7 @@ function ClusterMap({ nodes, clusters, selected, onSelect, dotMode }: {
         </div>
       )}
 
-      <div className="absolute bottom-3 right-3 flex gap-2">
+      <div className="absolute top-3 right-3 flex gap-2">
         {activeCluster !== null && (
           <button
             onClick={() => { setTransform({ x: 0, y: 0, scale: 1 }); setActiveCluster(null); }}
@@ -667,7 +667,7 @@ export default function GraphPage() {
   );
 
   return (
-    <div className="min-h-screen bg-gray-50 text-gray-900 flex flex-col">
+    <div className="h-screen overflow-hidden bg-gray-50 text-gray-900 flex flex-col">
       <div className="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between shrink-0">
         <div className="flex items-center gap-4">
           <a href="/list" className="text-sm px-3 py-1.5 bg-gray-100 hover:bg-gray-200 text-gray-700 rounded-lg transition">List View</a>
