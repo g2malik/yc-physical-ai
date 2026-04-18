@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Biotechnology and Robotics",
+    "cx": 12.814108848571777,
+    "cy": 11.453211784362793,
+    "size": 56,
+    "color": "#ec4899"
+  },
+  {
+    "id": 1,
+    "name": "Smart Energy Management",
+    "cx": 10.198091506958008,
+    "cy": 12.16639518737793,
+    "size": 34,
+    "color": "#22c55e"
+  },
+  {
+    "id": 2,
+    "name": "Advanced Aeronautics and Shipping",
+    "cx": 10.043560028076172,
+    "cy": 10.931807518005371,
+    "size": 15,
+    "color": "#3b82f6"
+  },
+  {
+    "id": 3,
+    "name": "Defense and Surveillance Drones",
+    "cx": 10.637752532958984,
+    "cy": 10.475493431091309,
+    "size": 16,
+    "color": "#ef4444"
+  },
+  {
+    "id": 4,
+    "name": "Satellite Communication Infrastructure",
+    "cx": 9.95573616027832,
+    "cy": 10.04532241821289,
+    "size": 13,
+    "color": "#3b82f6"
+  },
+  {
+    "id": 5,
+    "name": "Fleet Management Automation",
+    "cx": 12.323599815368652,
+    "cy": 15.381412506103516,
+    "size": 17,
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 6,
+    "name": "AI Supply Chain Automation",
+    "cx": 11.514540672302246,
+    "cy": 15.157135009765625,
+    "size": 19,
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 7,
+    "name": "AI for Service Industries",
+    "cx": 11.373412132263184,
+    "cy": 14.61862564086914,
+    "size": 12,
+    "color": "#94a3b8"
+  },
+  {
+    "id": 8,
+    "name": "Physical Robotics",
+    "cx": 13.284804344177246,
+    "cy": 13.959966659545898,
+    "size": 42,
+    "color": "#f97316"
+  },
+  {
+    "id": 11,
+    "name": "Industrial AI & Automation",
+    "cx": 12.7,
+    "cy": 13.9,
+    "size": 42,
+    "color": "#d97706"
+  },
+  {
+    "id": 9,
+    "name": "Chip Design and Manufacturing",
+    "cx": 11.839381217956543,
+    "cy": 12.619237899780273,
+    "size": 19,
+    "color": "#f59e0b"
+  },
+  {
+    "id": 10,
+    "name": "AI in Construction Engineering",
+    "cx": 10.821425437927246,
+    "cy": 13.744855880737305,
+    "size": 43,
+    "color": "#a855f7"
+  }
+]
